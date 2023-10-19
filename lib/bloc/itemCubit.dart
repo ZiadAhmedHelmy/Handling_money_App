@@ -20,7 +20,7 @@ class itemCubit extends Cubit<itemStates> {
                   "value" : 9.99,
                },
                {
-                  "product" : "A7a",
+                  "product" : "taco",
                   "value" : 9.99,
                },
                {
